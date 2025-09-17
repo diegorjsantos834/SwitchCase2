@@ -101,7 +101,7 @@ public class Atividade_Switch2 {
         }
 
         //3.Classificador de faixa etária
-        System.out.print("Digite a idade da pessoa, para classificar a faixa etária");//pergunta a idade
+        System.out.print("Digite a idade da pessoa, para classificar a faixa etária: ");//pergunta a idade
         int idade = scanner.nextInt();//guarda a idade
 
         int resultado;//variavel para guardar a idade
